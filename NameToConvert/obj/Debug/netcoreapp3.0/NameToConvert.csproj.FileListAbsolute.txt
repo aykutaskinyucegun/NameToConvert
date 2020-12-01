@@ -1,0 +1,16 @@
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\bin\Debug\netcoreapp3.0\NameToConvert.exe
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\bin\Debug\netcoreapp3.0\NameToConvert.deps.json
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\bin\Debug\netcoreapp3.0\NameToConvert.runtimeconfig.json
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\bin\Debug\netcoreapp3.0\NameToConvert.runtimeconfig.dev.json
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\bin\Debug\netcoreapp3.0\NameToConvert.dll
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\bin\Debug\netcoreapp3.0\NameToConvert.pdb
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.csprojAssemblyReference.cache
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.AssemblyInfoInputs.cache
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.AssemblyInfo.cs
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.dll
+C:\Users\aykut\source\repos\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.pdb
+C:\Users\aykut\Desktop\Big Data Analytics\BDAT 1001 - Information Encoding Standards\Assignment1\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.csprojAssemblyReference.cache
+C:\Users\aykut\Desktop\Big Data Analytics\BDAT 1001 - Information Encoding Standards\Assignment1\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.AssemblyInfoInputs.cache
+C:\Users\aykut\Desktop\Big Data Analytics\BDAT 1001 - Information Encoding Standards\Assignment1\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.AssemblyInfo.cs
+C:\Users\aykut\Desktop\Big Data Analytics\BDAT 1001 - Information Encoding Standards\Assignment1\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.dll
+C:\Users\aykut\Desktop\Big Data Analytics\BDAT 1001 - Information Encoding Standards\Assignment1\NameToConvert\NameToConvert\obj\Debug\netcoreapp3.0\NameToConvert.pdb
